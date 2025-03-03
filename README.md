@@ -1,4 +1,5 @@
 # 10 SQL: Employee Tracker
+# Loom Video Link: https://www.loom.com/share/59269cfecc044e239ac53a90d46dbba6?sid=190815eb-0473-4508-8138-36305c9cc825  
 
 ## Your Task
 
